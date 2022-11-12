@@ -1,11 +1,11 @@
 <h1 align="center">ReactJS Lucky Draw Simulator</h1>
 <div align="center">
-  <a href="https://luckydraw.me/">
+  <a href="https://luckydraw.songonha.com/">
     <img src="public/images/luckydraw-share.png" alt="ReactJS Lucky Draw Simulator" width="400">
   </a>
   <br>
   <h3>
-    <a href="https://luckydraw.me/">View the website</a>
+    <a href="https://luckydraw.songonha.com/">View the website</a>
   </h3>
   <br>
 </div>
@@ -121,7 +121,7 @@ Support this project by becoming a sponsor. Your logo/profile picture will show 
 
 ## Maintainers
 
-* [Jason Kam](https://github.com/thefiend)
+* [Songonha](https://github.com/songonha)
 
 ## Disclaimer
 
